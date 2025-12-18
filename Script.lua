@@ -83,9 +83,9 @@ local Window = WindUI:CreateWindow({
         API = {                                                       
             { 
                 Type = "junkiedev",
-                ServiceId = "Xkrzysiozx",
+                ServiceId = "#5115",
                 ApiKey = "df31acb5-e409-4981-a664-ff741cd2e3b5",
-                Provider = "Provident key system",
+                Provider = "#2555",
             }    
         }
     }
